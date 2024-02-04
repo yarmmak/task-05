@@ -10,8 +10,7 @@ import lombok.ToString;
 
 import java.util.Map;
 
-// TODO: Change name
-@DynamoDBTable(tableName = "Events")
+@DynamoDBTable(tableName = "cmtr-52e956b4-Events-test")
 @Builder
 @Setter
 @Getter
